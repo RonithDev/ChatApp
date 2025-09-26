@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyATWcpMbTXIlTokiycklNYyoS8667xJHPE",
-    authDomain: "chat-app-prayse.firebaseapp.com",
-    projectId: "chat-app-prayse",
-    storageBucket: "chat-app-prayse.firebasestorage.app",
-    messagingSenderId: "503914549983",
-    appId: "1:503914549983:web:c166114b8d9c435b540f6a"
+    apiKey: "ADD YOUR OWN CREDS",
+    authDomain: "ADD YOUR OWN CREDS",
+    projectId: "ADD YOUR OWN CREDS",
+    storageBucket: "ADD YOUR OWN CREDS",
+    messagingSenderId: "ADD YOUR OWN CREDS",
+    appId: "ADD YOUR OWN CREDS"
 };
 
 
