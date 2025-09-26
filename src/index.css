@@ -1,0 +1,23 @@
+@import "../../node_modules/tailwindcss/dist/lib.d.mts";
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #4ade80;
+    border-radius: 6px;
+    border: 3px solid #f0f0f0;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #22c55e;
+}
+body{
+    background-image: url("assets/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
